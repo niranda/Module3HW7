@@ -1,0 +1,9 @@
+{
+  "FileService": {
+    "DirectoryPath": "Backup"
+  },
+
+  "LoggerService": {
+    "BackupNumber": 5
+  }
+}
