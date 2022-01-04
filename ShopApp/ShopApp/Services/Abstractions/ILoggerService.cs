@@ -9,5 +9,6 @@ namespace ShopApp.Services.Abstractions
         event Func<string[], Task> Notify;
         void AddInfo(LogTypes logType, string msg);
         string[] GetLogArray();
+        bool IsBackUpReady();
     }
 }
